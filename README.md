@@ -20,13 +20,5 @@ Déjame en comentarios tu opinión.
 Si te gusta el contenido, **comparte** y **Dale a la estrellita** 
 
 **¡GRACIAS!**
-
-## Encuéntrame en:
-
-[![YouTube]](https://www.youtube.com/channel/UCtjxVKtJvvU71n0_g6eisvA)
-[![Twitter](https://img.shields.io/badge/twitter-@MoureDev-blue.svg?style=for-the-badge)](https://twitter.com/ivansanguezaX )
-[![Instagram](https://img.shields.io/badge/Instagram-MoureDev-orange.svg?style=for-the-badge)](https://www.instagram.com/ivansanguezax/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BraisMoure-blue.svg?style=for-the-badge)](https://www.linkedin.com/in/ivansanguezax/)
-
 ### Autor
 *Ivan Sangueza. © 2021*
