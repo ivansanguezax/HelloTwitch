@@ -1,7 +1,7 @@
 # Hello Twitch Landing 
 
 **`¡HOLA MUNDO! 👋🏼`**
-![Hello Twitch Landing](assets/img/twitch-landing.jpgtwitch?raw=true "Hello Twitch Landing ")
+![twitch-landing](assets/img/twitch-landing.jpgtwitch?raw=true "Hello Twitch Landing ")
 
 Si te interesa mi contenido **`SUSCRÍBETE Y ACTIVA LA CAMPANA 👆🏼`** [Puedes hacerlo aquí 👈🏼](https://www.youtube.com/channel/UCtjxVKtJvvU71n0_g6eisvA)
 
