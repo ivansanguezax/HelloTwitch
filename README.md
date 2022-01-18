@@ -17,7 +17,7 @@ En este repositorio veremos como realizar una landing page basico realizado con 
 ## ¿Te gusta el contenido?
 
 Déjame en comentarios tu opinión. 
-Si te gusta el contenido, **comparte** y **Dale a la estrellita** 
+Si te gusta el contenido, **comparte** y **Dale a la estrellita** ⭐️
 
 **¡GRACIAS!**
 ### Autor
