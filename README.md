@@ -10,7 +10,7 @@ Si te interesa mi contenido **`SUSCRÍBETE Y ACTIVA LA CAMPANA 👆🏼`** [Pued
 En este repositorio veremos como realizar una landing page basico realizado con HTML CSS y JavaScript. El diseño es responsivo y tambien util para aprender principios de la web.
 
 ## Requisitos
-* [HTML]5
+* HTML 5
 * CSS 3
 * JavaScript
 
