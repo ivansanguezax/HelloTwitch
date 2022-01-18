@@ -1,7 +1,7 @@
 # Hello Twitch Landing 
 
 **`¡HOLA MUNDO! 👋🏼`**
-![twitch-landing](https://github.com/ivansanguezax/HelloTwitch/blob/363f2b1e78843a50fc6059948b17399a428df5f7/assets/img/twitch-landing.jpg "Hello Twitch Landing ")
+![twitch-landing](https://github.com/ivansanguezax/HelloTwitch/blob/a3d15e7659210cfd94e46f32670f5500477c3ae2/assets/img/twitch-landing.jpg "Hello Twitch Landing ")
 
 Si te interesa mi contenido **`SUSCRÍBETE Y ACTIVA LA CAMPANA 👆🏼`** [Puedes hacerlo aquí 👈🏼](https://www.youtube.com/channel/UCtjxVKtJvvU71n0_g6eisvA)
 
